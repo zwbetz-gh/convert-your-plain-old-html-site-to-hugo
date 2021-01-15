@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Convert your plain old HTML site to Hugo"
+disableKinds = ["taxonomy", "taxonomyTerm"]
