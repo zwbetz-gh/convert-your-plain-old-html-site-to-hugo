@@ -1,1 +1,1 @@
-Sister repo for <https://zwbetz.com/convert-your-plain-old-html-site-to-hugo/>
+Sister repo for blog post <https://zwbetz.com/convert-your-plain-old-html-site-to-hugo/>
